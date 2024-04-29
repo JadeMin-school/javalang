@@ -18,7 +18,6 @@ class Printer {
 				numOfPapers -= amount / 2;
 				System.out.printf("양면으로 %d장 출력했습니다. 현재 %d장 남아 있습니다.\n", (amount / 2), numOfPapers);
 			} else {
-				numOfPapers -= (amount / 2) + 1;
 				System.out.printf("양면으로 %d장 출력했습니다. 현재 %d장 남아 있습니다.\n", (amount / 2) + 1, numOfPapers);
 			}
 		} else {
