@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92be1ee0-7a1f-4c11-9778-c682716f1e88" name="변경" comment="refactor: remove some useless float/double indicators">
-      <change afterPath="$PROJECT_DIR$/src/sec03/CircleArrayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec03/ForEachDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec03/IncrementDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec03/MainArgumentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec03/ObjectArgumentDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec03/VarArgsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="92be1ee0-7a1f-4c11-9778-c682716f1e88" name="변경" comment="upload: upload section 3 - `배열 응용`" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +47,7 @@
     "애플리케이션.CircleArrayDemo.executor": "Run",
     "애플리케이션.IncrementDemo.executor": "Run",
     "애플리케이션.MainArgumentDemo.executor": "Run",
+    "애플리케이션.ObjectArgumentDemo.executor": "Run",
     "애플리케이션.String1Demo.executor": "Run",
     "애플리케이션.String2Demo.executor": "Run",
     "애플리케이션.String3Demo.executor": "Run",
@@ -91,7 +84,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor: remove some useless float/double indicators" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: remove some useless float/double indicators" />
+    <MESSAGE value="upload: upload section 3 - `배열 응용`" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload: upload section 3 - `배열 응용`" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
