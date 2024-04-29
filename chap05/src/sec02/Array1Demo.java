@@ -14,6 +14,6 @@ public class Array1Demo {
 		for (int i = 0; i < scores.length; i++)
 			sum += scores[i];
 
-		System.out.println("평균 = " + sum / 5.0f);
+		System.out.println("평균 = " + sum / 5.0);
 	}
 }
