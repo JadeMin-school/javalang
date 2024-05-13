@@ -11,7 +11,7 @@ public class Ball extends Circle {
 		System.out.println(color + "공이다.");
 	}
 
-	public void findVoume() {
+	public void findVolume() {
 		System.out.println("부피는 4/3*(π*반지름*반지름*반지름)이다.");
 	}
 }

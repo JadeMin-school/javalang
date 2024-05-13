@@ -13,6 +13,6 @@ public class InheritanceDemo {
 		c2.findRadius();
 		c2.findColor();
 		c2.findArea();
-		c2.findVoume();
+		c2.findVolume();
 	}
 }
