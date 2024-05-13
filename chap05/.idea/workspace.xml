@@ -69,7 +69,11 @@
     "애플리케이션.String2Demo.executor": "Run",
     "애플리케이션.String3Demo.executor": "Run",
     "애플리케이션.String5Demo.executor": "Run",
-    "애플리케이션.VarArgsDemo.executor": "Run"
+    "애플리케이션.SwitchDemo.executor": "Run",
+    "애플리케이션.VarArgsDemo.executor": "Run",
+    "애플리케이션.quest1.executor": "Run",
+    "애플리케이션.quest2.executor": "Run",
+    "애플리케이션.quest3.executor": "Run"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -115,10 +119,11 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="refactor: remove some useless float/double indicators" />
     <MESSAGE value="upload: upload section 3 - `배열 응용`" />
-    <MESSAGE value="upload: upload some example codes" />
     <MESSAGE value="Merge branch 'main' of https://github.com/JadeMin-school/javalang&#10;ok" />
     <MESSAGE value="chore: clean structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: clean structure" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="upload: upload some example codes" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload: upload some example codes" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
