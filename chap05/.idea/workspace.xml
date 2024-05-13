@@ -60,6 +60,7 @@
     "애플리케이션.Array2Demo.executor": "Run",
     "애플리케이션.ArrayListDemo.executor": "Run",
     "애플리케이션.CircleArrayDemo.executor": "Run",
+    "애플리케이션.ConstantDemo.executor": "Run",
     "애플리케이션.IncrementDemo.executor": "Run",
     "애플리케이션.MainArgumentDemo.executor": "Run",
     "애플리케이션.ObjectArgumentDemo.executor": "Run",
