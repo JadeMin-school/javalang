@@ -9,11 +9,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92be1ee0-7a1f-4c11-9778-c682716f1e88" name="변경" comment="chore: clean structure">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/변경/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,8 +68,18 @@
     "애플리케이션.String3Demo.executor": "Run",
     "애플리케이션.String5Demo.executor": "Run",
     "애플리케이션.VarArgsDemo.executor": "Run"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "repository"
+    ]
   }
 }]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ObjectArgumentDemo" />
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="MainArgumentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sec03.MainArgumentDemo" />
