@@ -1,0 +1,56 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"92be1ee0-7a1f-4c11-9778-c682716f1e88\" name=\"변경\" comment=\"upload: upload section 3 - `배열 응용`\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$/..\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2fkf8jV26uWVaUJ04r9pPNxIyIQ\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"ToolWindowGit.ShowToolbar\": \"false\",\r\n    \"git-widget-placeholder\": \"main\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"project.structure.last.edited\": \"프로젝트\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.2\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\",\r\n    \"애플리케이션.Array1Demo.executor\": \"Run\",\r\n    \"애플리케이션.Array2Demo.executor\": \"Run\",\r\n    \"애플리케이션.ArrayListDemo.executor\": \"Run\",\r\n    \"애플리케이션.CircleArrayDemo.executor\": \"Run\",\r\n    \"애플리케이션.IncrementDemo.executor\": \"Run\",\r\n    \"애플리케이션.MainArgumentDemo.executor\": \"Run\",\r\n    \"애플리케이션.ObjectArgumentDemo.executor\": \"Run\",\r\n    \"애플리케이션.String1Demo.executor\": \"Run\",\r\n    \"애플리케이션.String2Demo.executor\": \"Run\",\r\n    \"애플리케이션.String3Demo.executor\": \"Run\",\r\n    \"애플리케이션.String5Demo.executor\": \"Run\",\r\n    \"애플리케이션.VarArgsDemo.executor\": \"Run\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"MainArgumentDemo\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"sec03.MainArgumentDemo\" />\r\n      <module name=\"chap05\" />\r\n      <option name=\"PROGRAM_PARAMETERS\" value=\"안녕! 3\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"애플리케이션.MainArgumentDemo\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"애플리케이션 수준\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"refactor: remove some useless float/double indicators\" />\r\n    <MESSAGE value=\"upload: upload section 3 - `배열 응용`\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"upload: upload section 3 - `배열 응용`\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <breakpoint enabled=\"true\" type=\"java-exception\">\r\n          <properties class=\"java.lang.ArrayIndexOutOfBoundsException\" package=\"java.lang\" />\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision f0baad0c3e01ecaeaeed25dd3f533f497338b67e)
++++ b/.idea/workspace.xml	(revision 2632a81d5a26c7e5f6b2407b1b4109be5205366f)
+@@ -1,10 +1,25 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="ArtifactsWorkspaceSettings">
++    <artifacts-to-build>
++      <artifact name="chap05:jar" />
++    </artifacts-to-build>
++  </component>
+   <component name="AutoImportSettings">
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="92be1ee0-7a1f-4c11-9778-c682716f1e88" name="변경" comment="upload: upload section 3 - `배열 응용`" />
++    <list default="true" id="92be1ee0-7a1f-4c11-9778-c682716f1e88" name="변경" comment="upload: upload section 3 - `배열 응용`">
++      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../chap02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../chap03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../chap03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap03/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../chap04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../chap04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap04/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -34,13 +49,15 @@
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "RunOnceActivity.ShowReadmeOnStart": "true",
++    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+     "ToolWindowGit.ShowToolbar": "false",
+     "git-widget-placeholder": "main",
+     "kotlin-language-version-configured": "true",
+-    "project.structure.last.edited": "프로젝트",
+-    "project.structure.proportion": "0.0",
++    "last_opened_file_path": "C:/Users/USER/.jdks",
++    "project.structure.last.edited": "아티팩트",
++    "project.structure.proportion": "0.15",
+     "project.structure.side.proportion": "0.2",
+-    "settings.editor.selected.configurable": "preferences.pluginManager",
++    "settings.editor.selected.configurable": "preferences.pathVariables",
+     "애플리케이션.Array1Demo.executor": "Run",
+     "애플리케이션.Array2Demo.executor": "Run",
+     "애플리케이션.ArrayListDemo.executor": "Run",
