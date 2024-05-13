@@ -2,17 +2,17 @@ package sec04;
 
 public class ConstantDemo {
 	public static void main(String[] args) {
-		Gender gender = Gender.FEMALE;
-		if (gender == Gender.MALE)
-			System.out.println(Gender.MALE + "은 병역 의무가 있다.");
+		final int MALE = 0;
+		final int FEMALE = 1;
+		final int SOUTH = 1;
+		int gender = FEMALE;
+		if (gender == MALE)
+			System.out.println(MALE + "은(는) 병역 의무가 있다.");
 		else
-			System.out.println(Gender.FEMALE + "는 병역 의무가 없다.");
+			System.out.println(FEMALE + "은(는) 병역 의무가 없다.");
 
-//		if (gender == Direction.SOUTH)
-//			System.out.println(Direction.SOUTH + "는 누구?");
-//		gender = 5;
+		if (gender == SOUTH)
+			System.out.println(SOUTH + "은(는) 누구?");
+		gender = 5;
 	}
 }
-
-enum Gender { MALE, FEMALE };
-enum Direction { EAST, WEST, SOUTH, NORTH };
