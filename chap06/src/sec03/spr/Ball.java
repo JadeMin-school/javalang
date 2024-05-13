@@ -8,7 +8,7 @@ public class Ball extends Circle {
 	}
 
 	public void findColor() {
-		System.out.println(color + "공이다.");
+		System.out.println(color + " 공이다.");
 	}
 
 	public void findArea() {
