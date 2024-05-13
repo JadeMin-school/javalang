@@ -9,17 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19aeac19-f7c3-4849-a0ee-fa9c0c102421" name="변경" comment="" />
+    <list default="true" id="19aeac19-f7c3-4849-a0ee-fa9c0c102421" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="directory" />
-      <option value="module" />
-    </option>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -121,10 +118,10 @@
     <MESSAGE value="refactor: remove some useless float/double indicators" />
     <MESSAGE value="upload: upload section 3 - `배열 응용`" />
     <MESSAGE value="Merge branch 'main' of https://github.com/JadeMin-school/javalang&#10;ok" />
-    <MESSAGE value="chore: clean structure" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="upload: upload some example codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload: upload some example codes" />
+    <MESSAGE value="chore: clean structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: clean structure" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
