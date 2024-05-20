@@ -10,9 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19aeac19-f7c3-4849-a0ee-fa9c0c102421" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/../chap06/src/sec07/FinalClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../chap06/src/sec07/FinalMethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06/src/sec06/other/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/src/sec06/other/Three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06/src/quest/quest1/GirlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06/src/sec08/InstanceofDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06/src/sec08/OverTypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06/src/sec08/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06/src/sec08/PolymorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06/src/sec08/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06/src/sec08/Test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap06/src/sec08/UpcastDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/sec07/FinalMethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/src/sec07/FinalMethodDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
