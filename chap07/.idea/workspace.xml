@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c245bb-1b38-4e39-ae6b-0df11758cc17" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sec01/AbstractClassDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec01/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec01/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06/src/quest/quest1/GirlTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06/src/sec08/UpcastDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/src/sec08/UpcastDemo.java" afterDir="false" />
+    <list default="true" id="45c245bb-1b38-4e39-ae6b-0df11758cc17" name="변경" comment="upload: upload some files">
+      <change afterPath="$PROJECT_DIR$/src/sec01/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sec01/AbstractClassDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sec01/AbstractClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sec01/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sec01/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sec01/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sec01/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,5 +50,14 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sec01" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upload: upload some files" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload: upload some files" />
+  </component>
 </project>
