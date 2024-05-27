@@ -1,7 +1,19 @@
-package quest.quest1;
+package quest.quest2;
 
 class Girl {
-	String name;
+	private String name;
+
+	void show() {
+		System.out.println("그녀는 자바 초보자이다.");
+	}
+
+	Girl(String name) {
+		this.name = name;
+	}
+
+	Girl() {
+		this("그녀");
+	}
 }
 
 class GoodGirl extends Girl {
@@ -22,7 +34,7 @@ public class GirlTest {
 		Girl g2 = new GoodGirl();
 		GoodGirl gg = new BestGirl();
 
-//		g2.show();
+		g2.show();
 		gg.show();
 	}
 }
