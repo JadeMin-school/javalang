@@ -5,8 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45c245bb-1b38-4e39-ae6b-0df11758cc17" name="변경" comment="upload: upload section `sec01` codes">
-      <change afterPath="$PROJECT_DIR$/../chap06/src/quest/quest2/GirlTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06/src/quest/quest1/GirlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/src/quest/quest1/GirlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/Coin2Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/CoinDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/Controllable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/ControllableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/RemoteControllable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec04/AnimalDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec04/ControllableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec04/MovableDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +55,13 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java",
-    "애플리케이션.AbstractClassDemo.executor": "Run"
+    "애플리케이션.AbstractClassDemo.executor": "Run",
+    "애플리케이션.AnimalDemo.executor": "Run",
+    "애플리케이션.Coin2Demo.executor": "Run",
+    "애플리케이션.CoinDemo.executor": "Run",
+    "애플리케이션.ControllableDemo.executor": "Run",
+    "애플리케이션.MovableDemo.executor": "Run",
+    "애플리케이션.Notebook.executor": "Run"
   }
 }]]></component>
   <component name="RecentsManager">
