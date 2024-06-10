@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload chapter `chap08`">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec02/WrapperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap07/src/sec05/MemberClassDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sec02/SystemDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sec02/SystemDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
