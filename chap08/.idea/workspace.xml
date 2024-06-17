@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload chapter `chap08`">
-      <change afterPath="$PROJECT_DIR$/../chap07/src/sec05/MemberClassDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/ArraysDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/CalendarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/StringTokenizerDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
     "애플리케이션.MathDemo.executor": "Run",
     "애플리케이션.ObjectMethodDemo.executor": "Run",
     "애플리케이션.StringBuilderDemo.executor": "Run",
+    "애플리케이션.StringTokenizerDemo.executor": "Run",
     "애플리케이션.SystemDemo.executor": "Run",
     "애플리케이션.WrapperDemo.executor": "Run"
   }
@@ -61,5 +63,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload chapter `chap08`" />
     <option name="LAST_COMMIT_MESSAGE" value="upload chapter `chap08`" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.jdks/azul-21.0.3/lib/src.zip!/java.base/java/util/Calendar.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
