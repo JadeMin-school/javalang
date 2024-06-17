@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload chapter `chap08`">
-      <change afterPath="$PROJECT_DIR$/src/Quest/Quest1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quest/Quest1/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quest/Quest2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quest/Quest2/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quest/Quest3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Quest/Quest3/CarTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec03/RandomDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec04/DecimalFormatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec04/MessageFormatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec04/SimpleDateFormatDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quest/Quest2/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quest/Quest2/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quest/Quest3/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quest/Quest3/CarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
