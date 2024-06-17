@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload chapter `chap08`">
-      <change afterPath="$PROJECT_DIR$/src/sec03/ArraysDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec03/CalendarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sec03/StringTokenizerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quest/Quest1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quest/Quest1/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quest/Quest2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quest/Quest2/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quest/Quest3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Quest/Quest3/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec03/RandomDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec04/DecimalFormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec04/MessageFormatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sec04/SimpleDateFormatDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,20 +52,35 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/USER/Desktop/자바기초실습/프로젝트/chap08/src/Quest/Quest3",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.sourceCode.Java",
+    "애플리케이션.CarTest.executor": "Run",
     "애플리케이션.ClassDemo.executor": "Run",
+    "애플리케이션.DecimalFormatDemo.executor": "Run",
     "애플리케이션.GarbageDemo.executor": "Run",
     "애플리케이션.MathDemo.executor": "Run",
     "애플리케이션.ObjectMethodDemo.executor": "Run",
+    "애플리케이션.RandomDemo.executor": "Run",
+    "애플리케이션.SimpleDateFormatDemo.executor": "Run",
     "애플리케이션.StringBuilderDemo.executor": "Run",
     "애플리케이션.StringTokenizerDemo.executor": "Run",
     "애플리케이션.SystemDemo.executor": "Run",
     "애플리케이션.WrapperDemo.executor": "Run"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\자바기초실습\프로젝트\chap08\src\Quest\Quest3" />
+      <recent name="C:\Users\USER\Desktop\자바기초실습\프로젝트\chap08\src\Quest\Quest2" />
+      <recent name="C:\Users\USER\Desktop\자바기초실습\프로젝트\chap08\src\Quest" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Quest.Quest2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload chapter `chap08`" />
