@@ -9,15 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19aeac19-f7c3-4849-a0ee-fa9c0c102421" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/problem/minesweeper.java" afterDir="false" />
+    <list default="true" id="19aeac19-f7c3-4849-a0ee-fa9c0c102421" name="변경" comment="upload: upload problem 8 `minesweeper`">
+      <change afterPath="$PROJECT_DIR$/../chap06/src/problem/problem6/OverrideTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08/src/Quest/Quest1/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/src/Quest/Quest1/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08/src/Quest/Quest2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/src/Quest/Quest2/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08/src/Quest/Quest2/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/src/Quest/Quest2/CarTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08/src/Quest/Quest3/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/src/Quest/Quest3/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08/src/Quest/Quest3/CarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/src/Quest/Quest3/CarTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -102,7 +96,7 @@
       </method>
     </configuration>
     <configuration name="minesweeper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.minesweeper" />
+      <option name="MAIN_CLASS_NAME" value="problem.problem9.minesweeper" />
       <module name="chap05" />
       <option name="PROGRAM_PARAMETERS" value="5 10 0.3" />
       <method v="2">
@@ -138,7 +132,9 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="upload: upload some example codes" />
     <MESSAGE value="chore: clean structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: clean structure" />
+    <MESSAGE value="upload chapter `chap08`" />
+    <MESSAGE value="upload: upload problem 8 `minesweeper`" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload: upload problem 8 `minesweeper`" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c245bb-1b38-4e39-ae6b-0df11758cc17" name="변경" comment="upload section `sec05` ~ `sec06`" />
+    <list default="true" id="45c245bb-1b38-4e39-ae6b-0df11758cc17" name="변경" comment="upload section `sec05` ~ `sec06`">
+      <change afterPath="$PROJECT_DIR$/../chap06/src/problem/problem6/OverrideTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem/problem9/HotelTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +56,7 @@
     "애플리케이션.CoinDemo.executor": "Run",
     "애플리케이션.ControllableDemo.executor": "Run",
     "애플리케이션.CountableTest.executor": "Run",
+    "애플리케이션.HotelTest.executor": "Run",
     "애플리케이션.InnerInterfaceDemo.executor": "Run",
     "애플리케이션.LocalClassDemo.executor": "Run",
     "애플리케이션.MemberClassDemo.executor": "Run",
