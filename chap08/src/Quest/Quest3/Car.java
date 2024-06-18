@@ -1,22 +1,16 @@
 package Quest.Quest3;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class Car {
-	public String model;
-	public String date;
+	private String model;
+	public Date date;
 	public String rider;
 
-	public Car(String model, String date, String rider) {
-		SimpleDateFormat sdf = new SimpleDateFormat("MM-dd-yyyy");
 
+	public Car(String model, String rider) {
 		this.model = model;
-		try {
-			this.date = sdf.format(sdf.parse(date));
-		} catch (ParseException e) {
-			throw new RuntimeException(e);
-		}
+		this.date = new Date();
 		this.rider = rider;
 	}
 
