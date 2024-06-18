@@ -30,10 +30,8 @@ public class minesweeper {
 			// 주변 지뢰 갯수와 지뢰를 함께 출력
 			for (int cRow = 0; cRow < m; cRow++) {
 				for (int cCol = 0; cCol < n; cCol++) {
-					String result;
-
 					if (map[cRow][cCol].equals("*")) {
-						result = map[cRow][cCol];
+						System.out.print("* ");
 					} else {
 						int count = 0;
 						for (int tRow = cRow-1; tRow <= cRow+1; tRow++) { // 비교를 위해 cRow(현재 행)로부터 -1 ~ +1까지 순회
@@ -48,9 +46,9 @@ public class minesweeper {
 								}
 							}
 						}
-						result = count + "";
+
+						System.out.print(count + " ");
 					}
-					System.out.print(result + " ");
 				}
 				System.out.println();
 			}

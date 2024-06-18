@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload: upload programming problem 8">
-      <change beforePath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05/src/problem/problem9/minesweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/src/problem/problem9/minesweeper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

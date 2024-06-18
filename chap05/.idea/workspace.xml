@@ -12,8 +12,6 @@
     <list default="true" id="19aeac19-f7c3-4849-a0ee-fa9c0c102421" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem/problem9/minesweeper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/problem9/minesweeper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +134,8 @@
     <MESSAGE value="chore: clean structure" />
     <MESSAGE value="upload chapter `chap08`" />
     <MESSAGE value="upload: upload problem 8 `minesweeper`" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload: upload problem 8 `minesweeper`" />
+    <MESSAGE value="refactor(comment): add more detailed comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor(comment): add more detailed comments" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
