@@ -36,13 +36,13 @@ public class minesweeper {
 						result = map[cRow][cCol];
 					} else {
 						int count = 0;
-						for (int tRow = cRow-1; tRow <= cRow+1; tRow++) { // 비교를 위해 현재 행의 -1부터 +1까지 순회
-							for (int tCol = cCol-1; tCol <= cCol+1; tCol++) { // 비교를 위해
+						for (int tRow = cRow-1; tRow <= cRow+1; tRow++) { // 비교를 위해 cRow(현재 행)로부터 -1 ~ +1까지 순회
+							for (int tCol = cCol-1; tCol <= cCol+1; tCol++) { // 비교를 위해 cCol(현재 열)로부터 -1 ~ +1까지 순회
 								if (
-										tRow >= 0 && tRow < m && // tRow(행)가 맵의 범위를 벗어나지 않아야 함
-										tCol >= 0 && tCol < n // tCol(열)이 맵의 범위를 벗어나지 않아야 함
+										tRow >= 0 && tRow < m && // tRow(순회중인 행)가 맵의 범위를 벗어나지 않아야 함
+										tCol >= 0 && tCol < n // tCol(순회중인 열)이 맵의 범위를 벗어나지 않아야 함
 								) {
-									if (map[tRow][tCol].equals("*")) { // tCol에 지뢰가 있으면
+									if (map[tRow][tCol].equals("*")) { // tCol(순회중인 열)에 지뢰가 있으면
 										count++; // count 증가
 									}
 								}

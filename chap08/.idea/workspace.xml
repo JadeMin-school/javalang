@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload: upload programming problem 8" />
+    <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload: upload programming problem 8">
+      <change beforePath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,32 +36,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/USER/Desktop/자바기초실습/프로젝트/chap08/src/Quest/Quest3",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java",
-    "애플리케이션.CarTest.executor": "Run",
-    "애플리케이션.ClassDemo.executor": "Run",
-    "애플리케이션.DecimalFormatDemo.executor": "Run",
-    "애플리케이션.GarbageDemo.executor": "Run",
-    "애플리케이션.MathDemo.executor": "Run",
-    "애플리케이션.ObjectMethodDemo.executor": "Run",
-    "애플리케이션.RandomDemo.executor": "Run",
-    "애플리케이션.SimpleDateFormatDemo.executor": "Run",
-    "애플리케이션.StringBuilderDemo.executor": "Run",
-    "애플리케이션.StringTokenizerDemo.executor": "Run",
-    "애플리케이션.StringTokenizerTest.executor": "Run",
-    "애플리케이션.SystemDemo.executor": "Run",
-    "애플리케이션.WrapperDemo.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/자바기초실습/프로젝트/chap08/src/Quest/Quest3&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Java&quot;,
+    &quot;애플리케이션.CarTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ClassDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DecimalFormatDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.GarbageDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.MathDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.ObjectMethodDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.RandomDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SimpleDateFormatDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringBuilderDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringTokenizerDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StringTokenizerTest.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SystemDemo.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.WrapperDemo.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\Desktop\자바기초실습\프로젝트\chap08\src\Quest\Quest3" />

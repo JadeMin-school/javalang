@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45c245bb-1b38-4e39-ae6b-0df11758cc17" name="변경" comment="upload: upload problem 8">
-      <change beforePath="$PROJECT_DIR$/src/problem/problem9/HotelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem/problem9/HotelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="45c245bb-1b38-4e39-ae6b-0df11758cc17" name="변경" comment="upload: upload problem 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
