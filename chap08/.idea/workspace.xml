@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload chapter `chap08`">
-      <change afterPath="$PROJECT_DIR$/src/problem/problem8/StringTokenizerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap06/src/problem/problem6/OverrideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/src/problem/problem6/OverrideTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f998d35b-6293-4b0c-897d-9685515aae59" name="변경" comment="upload: upload programming problem 8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +84,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload chapter `chap08`" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload chapter `chap08`" />
+    <MESSAGE value="upload: upload programming problem 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload: upload programming problem 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

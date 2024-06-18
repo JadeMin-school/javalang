@@ -6,7 +6,7 @@ import java.util.ArrayList;
 class Hotel {
 	private ArrayList<Room> rooms = new ArrayList<Room>();
 
-	static class Room {
+	class Room {
 		int num;
 		String name;
 
