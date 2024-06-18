@@ -10,8 +10,7 @@ class Vehicle {
 	}
 
 	void show() {
-		System.out.println("색상: " + color);
-		System.out.println("속도: " + speed);
+		System.out.printf("color=%s, speed=%d\n", color, speed);
 	}
 }
 
@@ -19,16 +18,14 @@ class Car extends Vehicle {
 	int displacement;
 	int gears;
 
-	public Car(String color, int speed, int displacement, int gears) {
+	 public Car(String color, int speed, int displacement, int gears) {
 		super(color, speed);
 		this.displacement = displacement;
 		this.gears = gears;
 	}
 
 	void show() {
-		super.show();
-		System.out.println("배기량: " + displacement);
-		System.out.println("기어수: " + gears);
+		System.out.printf("color=%s, speed=%d, displacement=%d, gears=%d\n", color, speed, displacement, gears);
 	}
 }
 

@@ -9,9 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19aeac19-f7c3-4849-a0ee-fa9c0c102421" name="변경" comment="upload: upload problem 8 `minesweeper`">
-      <change afterPath="$PROJECT_DIR$/../chap06/src/problem/problem6/OverrideTest.java" afterDir="false" />
+    <list default="true" id="19aeac19-f7c3-4849-a0ee-fa9c0c102421" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap08/src/problem/problem8/StringTokenizerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06/src/problem/problem6/OverrideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06/src/problem/problem6/OverrideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap08/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
