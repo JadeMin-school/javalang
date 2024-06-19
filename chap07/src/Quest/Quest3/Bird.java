@@ -1,4 +1,4 @@
-package Quest.Quest3;
+package quest.quest3;
 
 class Bird extends Countable {
 	public Bird(String name, int num) {

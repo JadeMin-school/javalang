@@ -1,4 +1,4 @@
-package Quest.Quest1;
+package quest.quest1;
 
 import java.text.MessageFormat;
 

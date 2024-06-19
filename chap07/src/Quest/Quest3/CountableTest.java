@@ -1,4 +1,4 @@
-package Quest.Quest3;
+package quest.quest3;
 
 public class CountableTest {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Quest.Quest1;
+package quest.quest1;
 
 public class Bird implements Countable {
 	String name;

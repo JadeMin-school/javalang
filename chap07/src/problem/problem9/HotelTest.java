@@ -1,6 +1,5 @@
 package problem.problem9;
 
-
 import java.util.ArrayList;
 
 class Hotel {

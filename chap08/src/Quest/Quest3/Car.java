@@ -1,4 +1,4 @@
-package Quest.Quest3;
+package quest.quest3;
 
 import java.util.Date;
 
