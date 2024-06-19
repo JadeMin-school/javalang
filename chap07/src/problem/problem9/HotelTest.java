@@ -4,7 +4,7 @@ package problem.problem9;
 import java.util.ArrayList;
 
 class Hotel {
-	private ArrayList<Room> rooms = new ArrayList<Room>();
+	private ArrayList<Room> rooms = new ArrayList<>();
 
 	class Room {
 		int num;
