@@ -20,10 +20,6 @@ class Hotel {
 		}
 	}
 
-	public Hotel() {
-
-	}
-
 	public void add(int num, String name) {
 		rooms.add(new Room(num, name));
 	}
